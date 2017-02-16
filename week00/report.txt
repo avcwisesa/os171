@@ -1,0 +1,6 @@
+--Week 0 Task--
+
+Report your github account to the TA so that a folder will be made for you in
+badak.cs.ui.ac.id
+
+make a new repository named os171 and clone it to badak.cs.ui.ac.id
