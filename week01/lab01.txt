@@ -20,3 +20,4 @@ drwxr-xr-x  2 avicenna.wisesa StafCS 4096 Feb 14 10:54 week09
 drwxr-xr-x  2 avicenna.wisesa StafCS 4096 Feb 14 10:54 week10
 drwxr-xr-x  2 avicenna.wisesa StafCS 4096 Feb 14 10:54 xtra
 /home/fasilkom/mahasiswa/a/avicenna.wisesa/os171/week01
+Today is 18 Feb 2017 at 17:36:01

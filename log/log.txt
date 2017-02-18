@@ -1,1 +1,2 @@
-Log Format: [Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
+w01-170218-18-PS-Practice scripting
+w01-170218-18-PS-Practice scripting
