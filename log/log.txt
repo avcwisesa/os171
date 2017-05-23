@@ -2,3 +2,45 @@ w01-170218-18-PS-Practice scripting
 w01-170218-18-PS-Practice scripting
 w02-170223-10-LR-Browse about SH1 & gpg
 w03-170303-09-LR-Browse for linux booting and how sudo works
+w04-170307-15-PS-Doing week04 task
+w04-170307-16-PS-Doing week04 task
+w04-170311-12-PS-Doing week04 task
+w04-170311-13-PS-Doing week04 task
+w05-170318-12-PS-Doing week05 task
+w05-170318-13-PS-Doing week05 task
+w05-170318-13-PS-Doing week05 task
+w06-170415-12-PS-Doing week06 task
+w06-170415-13-PS-Doing week06 task
+w06-170415-13-PS-Doing week06 task
+w06-170415-14-PS-Doing week06 task
+w07-170423-12-PS-Doing week07 task
+w07-170423-12-PS-Doing week07 task
+w07-170423-13-PS-Doing week07 task
+w07-170423-13-PS-Doing week07 task
+w08-170428-15-PS-Doing week08 task
+w08-170428-15-PS-Doing week08 task
+w08-170428-16-PS-Doing week08 task
+w08-170429-21-PS-Doing week08 task
+w08-170429-22-PS-Doing week08 task
+w09-170520-20-PS-Doing week09-week10 task
+w09-170520-21-PS-Doing week09-week10 task
+w09-170520-21-PS-Doing week09-week10 task
+w09-170520-23-PS-Doing week09-week10 task
+w09-170520-23-PS-Doing week09-week10 task
+w10-170523-15-PS-Doing week09-week10 task
+w10-170523-15-PS-Doing week09-week10 task
+w10-170523-16-PS-Doing week09-week10 task
+w10-170523-16-PS-Doing week09-week10 task
+w10-170523-17-PS-Doing week09-week10 task
+w10-170523-17-PS-Doing week09-week10 task
+w10-170523-18-PS-Doing week09-week10 task
+w10-170523-18-PS-Doing week09-week10 task
+w10-170523-19-PS-Doing week09-week10 task
+w10-170523-19-PS-Doing week09-week10 task
+w10-170523-20-PS-Doing week09-week10 task
+w10-170523-20-PS-Doing week09-week10 task
+w10-170523-21-PS-Doing week09-week10 task
+w10-170523-21-PS-Doing week09-week10 task
+w10-170523-22-PS-Doing week09-week10 task
+w10-170523-22-PS-Doing week09-week10 task
+
